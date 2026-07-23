@@ -15,5 +15,9 @@ namespace QuickCommerce.API.Controllers
         {
             return Ok();
         }
+        public string GetData()
+        {
+            return "Hello Ashif";
+        }
     }
 }
