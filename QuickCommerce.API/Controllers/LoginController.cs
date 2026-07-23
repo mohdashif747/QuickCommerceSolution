@@ -15,15 +15,5 @@ namespace QuickCommerce.API.Controllers
         {
             return Ok();
         }
-
-        public IActionResult LogOut1()
-        {
-            return Ok();
-        }
-
-        public IActionResult LogOut3()
-        {
-            return Ok();
-        }
     }
 }
