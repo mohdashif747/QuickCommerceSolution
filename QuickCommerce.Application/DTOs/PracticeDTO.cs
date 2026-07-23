@@ -8,7 +8,6 @@ namespace QuickCommerce.Application.DTOs
 {
     public class PracticeDTO
     {
-        public string? Name { get; set; }
-        public string? Name1 { get; set; }
+        public string? Name { get; set; } 
     }
 }
