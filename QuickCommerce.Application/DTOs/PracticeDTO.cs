@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace QuickCommerce.Application.DTOs
 {
-    internal class PracticeDTO
+    public class PracticeDTO
     {
+        public string? Name { get; set; } 
     }
 }

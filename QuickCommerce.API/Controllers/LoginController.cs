@@ -15,5 +15,10 @@ namespace QuickCommerce.API.Controllers
         {
             return Ok();
         }
+
+        public IActionResult Delete()
+        {
+            return Ok();
+        }
     }
 }
